@@ -1,0 +1,4 @@
+name: Api
+version: ${project.version}
+main: com.exortions.bedwarsreloaded.api.Api
+api-version: 1.17
